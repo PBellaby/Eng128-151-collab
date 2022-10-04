@@ -1,3 +1,4 @@
+
 A ray of light shines down on a leather-bound storybook. The book opens and a voice begins reading its text:
 
 SHREK: Once upon a time there was a lovely princess. But she had an enchantment upon her of a fearful sort which could only be broken by love's first kiss. She was locked away in a castle guarded by a terrible fire-breathing dragon. Many brave knights had attempted to free her from this dreadful prison, but none prevailed. She waited in the dragon's keep in the highest room of the tallest tower. For her true love and true love's first kiss.
@@ -2307,3 +2308,6 @@ The guests party and dance as Donkey takes over singing the song. Shrek and Fion
 DONKEY: (as he's done singing and we fade to black) Oh, that's funny. Oh. Oh. I can't breathe. I can't breathe.
 
 THE END
+
+What a mediocre lesson!
+
