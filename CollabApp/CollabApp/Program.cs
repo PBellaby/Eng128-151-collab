@@ -20,4 +20,11 @@ public class Program
 
         //hello there
     }
+
+
+
+    public static void GreatMethod()
+    {
+
+    }
 }
