@@ -1,5 +1,7 @@
 # Eng128-151-collab
 
+## ☠
+
 ## Number Guessing Game
 
 ### Installation
