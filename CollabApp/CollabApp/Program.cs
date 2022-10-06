@@ -18,4 +18,11 @@ public class Program
         }
         Console.WriteLine($"Well done! It was {numberToGuess}");
     }
+
+
+
+    public static void GreatMethod()
+    {
+
+    }
 }
