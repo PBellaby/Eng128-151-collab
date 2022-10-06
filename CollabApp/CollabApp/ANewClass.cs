@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CollabApp
 {
-    internal class ANewClass
+    public class ANewClass
     {
+        private int _number = 1;
     }
 }
