@@ -11,3 +11,6 @@ Type in a number between 0 and 10. When you guess correctly you win!
 Sahil:)
 
 ![hamstser](img/hamster.jpg)
+
+Adding something.
+
