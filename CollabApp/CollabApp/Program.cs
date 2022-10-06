@@ -4,6 +4,7 @@ public class Program
 {
     static void Main(string[] args)
     {
+
         Console.WriteLine("Guess what single digit number I'm thinking of!");
         Random r = new();
         int numberToGuess = r.Next(0, 10);
@@ -18,29 +19,23 @@ public class Program
         }
         Console.WriteLine($"Well done! It was {numberToGuess}");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         //Adam R Change Here!
         for (int i = 0; i < 3; i++)
         {
             Console.WriteLine("Adam R Writeline: " + i);
         }
+
+        Console.WriteLine("I made a change");
+
+
+        //hello there
+
+    }
+
+
+
+    public static void GreatMethod()
+    {
+
     }
 }
