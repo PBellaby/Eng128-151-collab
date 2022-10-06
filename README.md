@@ -8,4 +8,10 @@ Download the zip, extract and run the .exe
 ### Function
 Type in a number between 0 and 10. When you guess correctly you win!
 
+<<<<<<< HEAD
 Adding something.
+=======
+
+
+![hamstser](img/hamster.jpg)
+>>>>>>> dev
