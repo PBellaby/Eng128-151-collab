@@ -1,8 +1,9 @@
 # Eng128-151-collab
 
-Sergiusz Branch
+## Number Guessing Game
 
-This is a read me!!!!!!
+### Installation
+Download the zip, extract and run the .exe
 
-### Shrek 2 is better
-
+### Function
+Type in a number between 0 and 10. When you guess correctly you win!
