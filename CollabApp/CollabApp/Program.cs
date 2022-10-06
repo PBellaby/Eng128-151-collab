@@ -19,7 +19,7 @@ public class Program
         }
         Console.WriteLine($"Well done! It was {numberToGuess}");
 <<<<<<< HEAD
-        Console.WriteLine("Game over");
+        Console.WriteLine($"You have won £{numberToGuess}");
 =======
 
         Console.WriteLine("I made a change");
@@ -34,6 +34,6 @@ public class Program
     public static void GreatMethod()
     {
 
->>>>>>> 869c06f9902a83f6f34fbceb7d6af743980133be
+>>>>>>> dev
     }
 }
