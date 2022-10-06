@@ -4,7 +4,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Guess what number I'm thinking of!");
+        Console.WriteLine("Guess what single digit number I'm thinking of!");
         Random r = new();
         int numberToGuess = r.Next(0, 10);
         bool guessing = true;
